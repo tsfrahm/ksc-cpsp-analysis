@@ -1,0 +1,13 @@
+outcome,variable,test,p_value,any_zero_cell,note
+limit_positive,preop_hernia_pain_2w,Fisher,0.19018404907975453,TRUE,Zero cell(s) present
+limit_positive,preop_chronic_pain_other,Fisher,0.35582822085889565,TRUE,Zero cell(s) present
+limit_positive,manual_labor,Fisher,0.4417177914110429,TRUE,Zero cell(s) present
+limit_positive,education,Fisher,0.7055214723926388,TRUE,Zero cell(s) present
+limit_positive,followup_cat,Fisher,0.9999999999998977,TRUE,Zero cell(s) present
+limit_positive,age_cat,Fisher,0.999999999999964,TRUE,Zero cell(s) present
+limit_positive,sex,Fisher,1,TRUE,Zero cell(s) present
+limit_positive,employed,Fisher,1,TRUE,Zero cell(s) present
+limit_positive,preop_opioids_self,Fisher,1,TRUE,Zero cell(s) present
+limit_positive,smoke,Fisher,1,TRUE,Zero cell(s) present
+limit_positive,alcohol,Fisher,1,TRUE,Zero cell(s) present
+limit_positive,malignancy,NA,NA,NA,Table not 2x2 (insufficient variation)

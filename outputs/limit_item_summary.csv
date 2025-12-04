@@ -1,0 +1,8 @@
+item,item_label,n_nonmiss,n_mild_or_worse,pct
+limitation_walk,Walking,185,8,4.3
+limitation_bending,Bending,185,6,3.2
+limitation_cough,Coughing/deep breathing,186,5,2.7
+limitation_exercise,Exercising,148,3,2
+limitation_adl,Daily activities (ADLs),186,3,1.6
+limitation_stairs,Walking up stairs,152,2,1.3
+limitation_sitting,Sitting up,186,1,0.5

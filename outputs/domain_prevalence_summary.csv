@@ -1,0 +1,4 @@
+domain,threshold,N,n_yes,pct_yes
+Pain (CPSP),sum ≥ 16,186,2,1.1
+Mesh sensation,sum ≥ 16,186,1,0.5
+Functional limitation,sum ≥ 14,163,1,0.6

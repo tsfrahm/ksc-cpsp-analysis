@@ -1,0 +1,13 @@
+variable,test,p_value,any_zero_cell,note
+manual_labor,Fisher,0.19302528334786404,TRUE,Zero cell(s) present
+education,Fisher,0.25783202557393736,TRUE,Zero cell(s) present
+preop_hernia_pain_2w,Fisher,0.31525719267654756,FALSE,No zero cells
+sex,Fisher,0.3241499564080209,FALSE,No zero cells
+employed,Fisher,0.48206916594013377,FALSE,No zero cells
+age_cat,Fisher,0.5019471083986373,TRUE,Zero cell(s) present
+preop_chronic_pain_other,Fisher,0.5422842197035743,FALSE,No zero cells
+followup_cat,Fisher,0.9999999999999389,TRUE,Zero cell(s) present
+smoke,Fisher,1,TRUE,Zero cell(s) present
+alcohol,Fisher,1,TRUE,Zero cell(s) present
+preop_opioids_self,Fisher,1.0000000000000002,TRUE,Zero cell(s) present
+malignancy,NA,NA,NA,Table not 2x2 (insufficient variation)

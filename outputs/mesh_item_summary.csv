@@ -1,0 +1,9 @@
+item,item_label,n_nonmiss,n_mild_or_worse,pct
+pain_lying_mesh,Lying down,186,10,5.4
+pain_exercise_mesh,Exercising,149,4,2.7
+pain_adl_mesh,Daily activities (ADLs),186,4,2.2
+pain_cough_mesh,Coughing/deep breathing,185,4,2.2
+pain_stairs_mesh,Walking up stairs,152,3,2
+pain_bending_mesh,Bending,186,3,1.6
+pain_sitting_mesh,Sitting up,186,3,1.6
+pain_walk_mesh,Walking,186,2,1.1
