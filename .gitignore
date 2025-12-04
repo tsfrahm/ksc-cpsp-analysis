@@ -1,0 +1,19 @@
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# macOS
+.DS_Store
+
+# NEVER commit raw data or PHI
+data/
+
+# Optional: ignore large, regenerable stuff
+# outputs/
+# figures/
+
+# renv library cache if you use renv later
+renv/library/
+renv/staging/
